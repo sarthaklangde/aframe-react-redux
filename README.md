@@ -14,4 +14,4 @@ Instructions to run this application:
 
 To enter dev mode in the application:
 
-       npm run dev
+    npm run dev
